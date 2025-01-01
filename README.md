@@ -1,13 +1,15 @@
 # Jamsters Kafka Experiments
 
 These are some experiments for me to get hands-on knowledge of working with Kafka using the various languages I know.  So Far I've done:
-* C
+* C - writer ONLY
 
 I plan to also do:
-* C++
-* Java
-* Python
-* Scala
+* C - reader TOO
+* C++ - writer AND reader
+* Java - writer AND reader
+* Python - writer AND reader
+* Scala - writer AND reader
+
 
 I also plan to extend the code I write to do the additional functions:
 * Send a custom message via command-line parameters
