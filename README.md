@@ -8,3 +8,9 @@ I plan to also do:
 * Java
 * Python
 * Scala
+
+I also plan to extend the code I write to do the additional functions:
+* Send a custom message via command-line parameters
+* Monitor a text/log file and send updates/deltas
+* Monitor a directory of text/log files and send updates/deltas
+* Leverage TLS to communicate with the Kafka instance
