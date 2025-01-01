@@ -13,3 +13,8 @@ docker compose up -d
 docker logs ctest_broker
 docker exec -it -w /opt/kafka/bin ctest_broker sh
 docker compose down -v
+
+C-COMPILER COMMANDS
+gcc -Wall -o producer producer.c -lrdkafka
+
+
